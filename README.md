@@ -59,4 +59,4 @@ python main.py --cache --dataset vcoco --data-root vcoco/ --partitions trainval 
 |TSCE-R50|59.4|65.0|[weights](https://www.jianguoyun.com/p/DcUSGTQQioLlCxiFqpEFIAA)|[weights](https://www.jianguoyun.com/p/DaExfnYQioLlCxj2qZEFIAA)|
 
 ## Acknowledgments
-Our code is built on the foundation of UPT and we sincerely appreciate the excellent work in the past.
+Our code is built on the foundation of UPT and we sincerely appreciate the excellent work in the past.# tsce
